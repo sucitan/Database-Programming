@@ -1,2 +1,2 @@
 # Database-Programming
-millers class
+millers class that deals with programming databases
